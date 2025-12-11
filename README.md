@@ -1,6 +1,5 @@
-# 261102
-# First Name: Tasit 
-# Last Name: Akarapakdipirom
-# Number: 680610744
+# 261102 lab6 
+# ชื่อ-สกุล: ฐสิษฐ์ อัครภักดีภิรมย์
+# รหัสนักศึกษา: 680610744
 
 
